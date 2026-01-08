@@ -1,4 +1,4 @@
-# PokeDex Testes ⚡
+# PokeDex 
 
 Projeto simples de **Pokédex** feito com **HTML, CSS e JavaScript**.  
 Permite visualizar uma lista de Pokémon e suas informações básicas.
